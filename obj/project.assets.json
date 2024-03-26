@@ -10609,24 +10609,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/mikolajkrakowiak/.nuget/packages/": {}
+    "C:\\Users\\jarja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mikolajkrakowiak/Desktop/Studia/PAI/Lab9&10 - MVC/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "D:\\Studia\\PAI\\Lab9\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/mikolajkrakowiak/Desktop/Studia/PAI/Lab9&10 - MVC/MvcMovie/MvcMovie.csproj",
-      "packagesPath": "/Users/mikolajkrakowiak/.nuget/packages/",
-      "outputPath": "/Users/mikolajkrakowiak/Desktop/Studia/PAI/Lab9&10 - MVC/MvcMovie/obj/",
+      "projectPath": "D:\\Studia\\PAI\\Lab9\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\jarja\\.nuget\\packages\\",
+      "outputPath": "D:\\Studia\\PAI\\Lab9\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mikolajkrakowiak/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jarja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10639,11 +10641,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10676,20 +10673,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-arm64",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10698,7 +10681,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
